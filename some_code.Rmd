@@ -33,8 +33,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 plot(cars)
 ```
 
-I am proposing some changes to this document here.
 
-```{r}
-summary(pressure)
-```
+Some more changes
